@@ -1,2 +1,3 @@
-# DATA602_Commute
-Commute prediction based on historical data to help the user determine the best time to go to work dependent on the preferred method of transportation.
+# DATA602_FoodClassification
+
+Combining NLP with computer vision, we aim to create a classifier that identifies to users if the food in their image is a sandwich.
